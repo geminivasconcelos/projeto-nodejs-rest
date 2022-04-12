@@ -1,8 +1,8 @@
 class Tabelas {
     init(conexao) {
-        this.conexao = conexao;
+        this.conexao = conexao
 
-        this.criarAtendimentos();
+        this.criarAtendimentos()
     }
 
     criarAtendimentos() {
@@ -16,6 +16,6 @@ class Tabelas {
             }
         })
     }
-};
+}
 
-module.exports = new Tabelas;
+module.exports = new Tabelas
