@@ -18,7 +18,7 @@ class Atendimento {
             {
                 nome: 'cliente',
                 valido: clienteEhValido,
-                mensagem: 'Cliente deve ter pelo menos cinco caracteres'
+                mensagem: 'Cliente deve ter pelo 2 cinco caracteres'
             }
         ]
 
